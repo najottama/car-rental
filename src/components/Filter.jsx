@@ -84,8 +84,8 @@ const Filter = (props) => {
             </div>
             {props.isButton === true && (
               <div className="col-2">
-                <button type="button" className="btn btn-primary mt-4" onClick={props.handleFilter}>
-                  Save changes
+                <button type="button" className="btn btn-success mt-4" onClick={props.handleFilter}>
+                  Cari Mobil
                 </button>
               </div>
             )}

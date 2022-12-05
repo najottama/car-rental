@@ -32,7 +32,6 @@ const CarDetail = () => {
           <div className="row justify-content-center">
             <div className="col-md-4 paket border p-5">
               <p className="fw-bold">Tentang Paket</p>
-              <br />
               <p className="fw-bold">Include</p>
               <ul>
                 <li className="text-black-50">Apa saja yang termasuk dalam paket misal durasi max 12 jam</li>
